@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of His Excellency Sir Thomas Fairfax, and his Councell of Warre, on behalfe of themselves and the whole armie; shewing the grounds of their present advance towards the city of London. By the appointment of his Excellency Sir Thomas Fairfax and his Councell of Warre. Signed Io. Rushworth Secr.</title>
+            <author>England and Wales. Army. Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84660</idno>
+            <idno type="STC">Wing F141</idno>
+            <idno type="STC">Thomason E401_2</idno>
+            <idno type="STC">ESTC R201770</idno>
+            <idno type="EEBO-CITATION">99862270</idno>
+            <idno type="PROQUEST">99862270</idno>
+            <idno type="VID">114423</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84660)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114423)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E401[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of His Excellency Sir Thomas Fairfax, and his Councell of Warre, on behalfe of themselves and the whole armie; shewing the grounds of their present advance towards the city of London. By the appointment of his Excellency Sir Thomas Fairfax and his Councell of Warre. Signed Io. Rushworth Secr.</title>
+                  <author>England and Wales. Army. Council.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Whittington,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 5th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114423:1" rendition="simple:additions"/>
+            <p>A DECLARATION Of His Excellency Sir Thomas Fairfax, AND His COUNCELL of WARRE, ON Behalfe of themſelves and the whole ARMIE; Shewing the grounds of their preſent advance towards the City of <hi>LONDON.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="appointment_to_print">
+                        <p>By the appointment of his Excellency Sir THOMAS FAIRFAX and his Councell of Warre.</p>
+                        <closer>
+                           <signed>Signed IO. RUSHWORTH <hi>Secr.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON, Printed for <hi>George Whittington,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:114423:2"/>
+            <pb n="1" facs="tcp:114423:2"/>
+            <head>A Declaration from his Excellency Sir Thomas Fairfax, and the Councel of Warre.</head>
+            <p>VVHen this Army was formerly led by the ma<g ref="char:EOLhyphen"/>nifold diſpenſations of Gods providence, and the grounds then declared, to advance to<g ref="char:EOLhyphen"/>wards the City of <hi>London,</hi> we held it our du<g ref="char:EOLhyphen"/>ty, to yeeld the Kingdom, the ſumme of thoſe deſires which we had to propoſe on behalf of it, our ſelves, wherein we ſhould acquieſce: And having received from the Parliament, ſome hopes of due ſatisfaction therein, and ſome aſſurance from the Lord Mayor, Aldermen, and Common-Councell of the City of <hi>London,</hi> of their ready concurrence with us in thoſe things, &amp; alſo great reſolution profeſſed by them of their care and tender<g ref="char:EOLhyphen"/>neſſe to preſerve all the Rights and Priviledges of Parliament, ſafe, free, and inviolated, from attempts of all kinds, we doe ap<g ref="char:EOLhyphen"/>peals to God, to the City, and to al men, what a ſpeedy comply<g ref="char:EOLhyphen"/>ance to their deſires for our removal to a further diſtance, found in this Army, for preventing all feares, jealouſies, and other in<g ref="char:EOLhyphen"/>conveniencies to the City, and to give clear teſtimony, that wee had nothing in our breaſts, but thoughts of peace, and the good and welfare both of Parliament, City, and Kingdom, notwith<g ref="char:EOLhyphen"/>ſtanding many falſe &amp; ſcandalous reports raiſed, that we ſought our ſelves, that we had vile and wicked ends, and that nothing would ſatisfie the ſouldier but the plunder of the City, the con<g ref="char:EOLhyphen"/>trary whereof did manifeſtly appear, when they ſo readily mar<g ref="char:EOLhyphen"/>ched
+<pb n="2" facs="tcp:114423:3"/>
+back upon hopes of ſatisfaction in their Deſires of publike concernment.</p>
+            <p>Having then upon the aforeſaid confidence ſo withdrawne, and out of a juſt ſenſe of the Countries ſuffering (by quarte<g ref="char:EOLhyphen"/>ting) removed the Head-quarter of the Army above 40. miles from <hi>London,</hi> and diſperſed the reſt well nigh 200. miles for the more eaſe of all parts, and that we might give the better ſa<g ref="char:EOLhyphen"/>tisfaction to the Kingdom. And being in this ſecure way, and labouring after the ſuddain ſettlement of the Kingdom, we had even brought to perfection the particular propoſals (included in the generals of our firſt Repreſentation) to be ſent to the Par<g ref="char:EOLhyphen"/>liament, for a finall concluſion of all our troubles. And alſo had made good progreſſe towards the preſent reliefe of diſtreſſed <hi>Ireland,</hi> by aſſigning a competent force, both of horſe and foot forthwith to have advanced for that ſervice.</p>
+            <p>But the Kingdoms &amp; our Enemies being moſt vigilant &amp; active to prevent and fruſtrate thoſe good intentions, and indeavours of ours; (that they might carry on their former evill deſigns) and under-hand practiſes, and alſo preſerve themſelves from the hand of juſtice, they have endeavoured to caſt the Kingdom in<g ref="char:EOLhyphen"/>to a new and bloudy warre: And for that end have procured the under-hand-liſting of ſeveral Reformadoes, and others, have contrived, promoted and cauſed to be entred into by ſeverall perſons a wicked and treaſonable combination, as is is ſuffici<g ref="char:EOLhyphen"/>ently manifeſted by a Declaration paſſed thereupon by both Houſes of PARLIAMENT, the 23. of <hi>July</hi> laſt for the preven<g ref="char:EOLhyphen"/>tion of the diſturbances that were like to enſue thereupon; from which kind of diſorders the City had been well preſerved, du<g ref="char:EOLhyphen"/>ring the ſpace of almoſt 4 yeares, whileſt the <hi>Militia</hi> was in the hands of the old Commiſſioners, whereby it appeares there was cauſe for the Army to intreat the Parliament, that the <hi>Militia</hi> might be returned into the hands it was in before, as alſo for divers other good Reaſons.</p>
+            <p n="1">1. The old Commiſſioners of the <hi>Militia</hi> (that have bin ſince left out) were not only perſons without all exception, having bin formerly choſen and approved by the Parliament and City, but alſo men of whom the City, Parliament, and Kingdom have had above 4 yeares experience in the faithful diſcharge of their
+<pb n="3" facs="tcp:114423:3"/>
+truſt, more than ever from the beginning, in the worſt of times, and in the occaſions of greateſt d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fficultie, had faithfully and conſtan<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly ingaged for, and with the Parliament in this cauſe; Men that were alwaies moſt deſirous of a Peace, but of a ſafe and well grounded one and that had alwaies teſtified a great care to prevent all occaſions of embroyling the Kingdome in a new Warre.</p>
+            <p>Now that on a ſuddain this truſt which they had ſo faithful<g ref="char:EOLhyphen"/>ly diſcharged ſo long, ſhould be taken out of their hands, and put in<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the hands of others, ſome whereof (at the beſt) have been very coole in the ſervice of the Parliament at the begin<g ref="char:EOLhyphen"/>ning of this Warr; That this ſhould be preſſed and in a man<g ref="char:EOLhyphen"/>ner forced upon the Parliament with ſuch importunity from the Conmmon-Councell that ſome out of every Ward ſhould be aſſigned to ſollicite the Members of the Houſe of <hi>Cemmons,</hi> every day as they went in and out at the Houſe: with profeſſi<g ref="char:EOLhyphen"/>ons that they would never leave the doore of the Houſe till they were ſatisfied in their Deſires. That they would not be contented with the <hi>Militia</hi> of the City of <hi>London</hi> only, unleſſe they might have power alſo over that of the Suburbs and out-parts: and all this before the peace of the Kingdome was ſetled or the Propoſitions ſent to the King for that purpoſe.</p>
+            <p>Theſe things miniſtred great cauſe of ſuſpition, that this al<g ref="char:EOLhyphen"/>teration of the <hi>Militia</hi> was in order to a deſigne, and to make the tearmes of the Peace, and agreement with the <hi>King,</hi> (on which the ſecurity of the whole Kingdome and their poſterity is to be bottomed) more ſutable to the private bargainings and undertakings of ſome men, then to the publique welfare of the whole Kingdome, in its ſecurity and proſperity, for the preſent and in future times. But this deſign diſcovered it ſelfe more cleerely by ſuch things as accompanied the purſuit of this alte<g ref="char:EOLhyphen"/>ration of the <hi>Militia,</hi> and enſued upon the obtaining thereof: At the ſame time that the alteration of the <hi>Militia</hi> of <hi>London</hi> was ſet on foot, the ſame perſons with as much earneſtneſſe preſ<g ref="char:EOLhyphen"/>ſed for the disbanding of this Army, before any thing was ſetled for the ſecurity and liberty of the Kingdome. At the ſame time the Common-Councel was new modulized, and a Lord Mayor choſen that might ſuite with the preſent deſigne in hand: At the
+<pb n="4" facs="tcp:114423:4"/>
+time (under colour of differences in ſome circumſtances of Church Government) it was earneſtly endeavoured, that ſuch as had been conſtantly true and moſt faithfull to the intereſt of the Kingdome ſhould be diſabled, to have any imployment in Church or Common wealth, either in <hi>England</hi> or <hi>Ireland,</hi> and without any ſuch colour or pretence, divers perſons were left out of the Common-Councell, and <hi>Militia</hi> of eminent deſerts and fidelity: and others brought into their roomes that had ei<g ref="char:EOLhyphen"/>ther teſtified an ill affection, or little affection to the Parliament and their cauſe: and ſuch as ſeeking to withdraw themſelves from all imployment in the beginning of this Warre, now at the winding up thereof, are ambitious to thruſt themſeve into imployment, with a deſign (as may juſtly be ſuſpected) to fru<g ref="char:EOLhyphen"/>ſtrate and overthrow in the cloſe of all, the fruit and effect of all the coſt and bloud that hath bin ſpent and ſpilt in this cauſe: and after that with difficulty, and not without reluctancy, in the Houſes of Parliament they had obtained the power of the <hi>Militia,</hi> in the City of <hi>London,</hi> and alſo in the out-parts for the ſpace of one yeare. Many Officers and under Officers in the Trained bands of known truſt and fidelity were diſplaced, and others of more doubtfull affections placed in their roomes, little care was taken of the honour of the Parliament, which was continually trampled under foot, and their authority affron<g ref="char:EOLhyphen"/>ted by every rabble of Women, Apprentices, Reformadoes and Souldiers, which latter ſort of perſons were thereby ſo incoura<g ref="char:EOLhyphen"/>ged to riſe higher and higher, in their tumultuous carriages againſt the Houſes, till at length it is riſen to the higth of bar<g ref="char:EOLhyphen"/>barous and monſtrous violence againſt the Parliament, that they might ſet themſelves on work, and the Kingdome on fire againe. And now at length, the deſign appeares open faced, and though the <hi>Militia</hi> be made as the principal ground of the quarrell, yet by the late vowes and engagements ſet one foot before any alteration of the <hi>Militia,</hi> and the preſſing ſo much the Meſſage of the 12 of <hi>May.</hi> and the <hi>Kings</hi> comming to <hi>Lon<g ref="char:EOLhyphen"/>don</hi> to confirme the ſame, ſhew, that the <hi>Militia</hi> is deſired but in order to that deſigne, and to force the Parliament (being wholly in their power) to ſuch Termes of peace as they pleaſed</p>
+            <p n="2">
+               <pb n="5" facs="tcp:114423:4"/>2. In the next place when the intereſt of the Common-Councel, in their change of the Militia ſhall be claymed as the Birth-right of the City of <hi>London,</hi> (which they never had any colour to pretend to, ſaving by the indulgency of the Parlia<g ref="char:EOLhyphen"/>ment unto them ſince this Parliament, in reſpect of the great uſe they have had of them, and the many good ſervices they have received from them) It is time for all the Kingdom to look to their Birth-rights, if ſuch a claime ſhall be held up againſt both the Houſes of Parliament, <hi>That upon no occaſion whatſoever, nor in no time of danger and distraction whatſoever, they may appoint thoſe that ſhall have the power of the Militia of London without the conſent of the Common-Councel; eſpecially when as the Houſes ſhal ſit under their power.</hi>
+            </p>
+            <p>The late Example may evidence to all the World, who ſhall be Maſters of the Parliaments freedome and Reſolutions: And common reaſon will teach every man who ſhall bee Maſters of the Birth-rights of the whole kingdom when there ſhall bee no Army on foot, when they have the confidence to diſpute for the Maſtery, notwithſtanding ſuch an Army as this to checke and ballance them in behalf of the Kingdom and Parliament.</p>
+            <p n="3">3. Laſtly, the Army diſcerning how intimate ſome of the new Militia were with ſome of the 11 accuſed Members, how for<g ref="char:EOLhyphen"/>ward they were to comply and act with them in their endea<g ref="char:EOLhyphen"/>vours, to raiſe a new Warre; how they made 18. or 19. Votes in order thereunto together with them in one night.</p>
+            <p>All which, the Common-Councell and Parliament diſliked and revoked, how notwithſtanding afterwards they ſecretly promoted their Deſignes by private Liſtings, which now ap<g ref="char:EOLhyphen"/>pear to have bin ſtill working under ground.</p>
+            <p>The Army, we ſay, obſerving this, and having nothing more in their thoughts and deſires, then to ſettle a ſpeedy, ſafe, and wel-grounded peace, and to prevent a new warre, found it ne<g ref="char:EOLhyphen"/>ceſſary to deſire,</p>
+            <p>That the Militia might be put into the hands wherein it was formerly, who had approved themſelves both to the Army,
+<pb n="6" facs="tcp:114423:5"/>
+Parliament and Kingdome, to be ſober-minded men, and not given to any practiſe whereby a new Warre might be kind<g ref="char:EOLhyphen"/>led.</p>
+            <p>To the intent, that the Army being ſecured by that meanes from that danger, might with the more confidence retire fur<g ref="char:EOLhyphen"/>ther from the City, inlarge their Quarter for the greater eaſe of the Kingdom, and intend wholly the ſetling of a ſure peace in this Kingdom, and a ſpeedy and effectuall reliefe of <hi>Ireland,</hi> which was almoſt brought to a period, and nothing in the ſight of man could have hindred, <hi>but this curſed practice of violence upon the Parliament, under pretence of the Militia, which accor<g ref="char:EOLhyphen"/>ding to our deſire, being reſtored againe into the hands of the old Commiſſioners, by an Ordinance of both Houſes, dated the</hi> 21. <hi>of</hi> July, <hi>(in purſuance of the aforeſaid treaſonable combination) ſe<g ref="char:EOLhyphen"/>verall Petitions were preſented to the Common-Councell of the Ci<g ref="char:EOLhyphen"/>ty of LONDON, in the name of the Apprentices and others, importing their Deſires, that the Militia of the City might conti<g ref="char:EOLhyphen"/>nue in the hands of the former Commiſſioners, according to the Or<g ref="char:EOLhyphen"/>dinance of the</hi> 4 <hi>of May laſt.</hi>
+            </p>
+            <p>Whereupon Munday July the ſixe and twentieth, the Com<g ref="char:EOLhyphen"/>mon-Councel of the City preſents their Petitions to both Hou<g ref="char:EOLhyphen"/>ſes for changing the <hi>Militia,</hi> wherein the Houſe of Lords re<g ref="char:EOLhyphen"/>fuſe to alter their Reſolutions, the Houſe of Commons anſwe<g ref="char:EOLhyphen"/>red they would take it into conſideration the next morning. Notwithſtanding which, the City and kingdom cannot be ig<g ref="char:EOLhyphen"/>norant with what rage and inſolency the tumult of Apprenti<g ref="char:EOLhyphen"/>ces the ſame day forced both Houſes. They blockt up their doores, ſwearing they would keep them in till they had paſſed what votes they pleaſed; they threatned the Houſes if they gran<g ref="char:EOLhyphen"/>ted not their deſires, knocking, hooting, and hallowing ſo at the <hi>Parl.</hi> doores, that many times the Members could not be heard to ſpeak or debate, not ſuffering the houſe of Commons to di<g ref="char:EOLhyphen"/>vide for determining ſuch Queſtions, as were put, crying out <hi>that thoſe that gave their votes againſt them, ſhould be ſent out to them,</hi> very often and loudly, ſaying, <hi>Agree, agree, diſpatch well wait no longer,</hi> &amp; in this outragious ma<g ref="char:cmbAbbrStroke">̄</g>ner, they continued at the houſe door above 8 hours together, the city guards there preſent
+<pb n="7" facs="tcp:114423:5"/>
+the City releiving them, by reaſon whereof the Houſe was forced to Vote what that rude multitude would demand, and then adjourned the Houſe til the next morning; After which the Houſe riſing, the Speaker and many Members going out of the Houſe, they forc'd them back againe into the Houſe: Many of the Apprentiſes preſſing in with them, where they ſtood with their hats on their heads, and compelled the Speaker to take the Chair, and the Houſe to Vote in their preſence what they pleaſed, committing ma<g ref="char:EOLhyphen"/>ny other inſolencies, as is publiſhed by the Speaker of the Houſe of Com<g ref="char:EOLhyphen"/>mons in his Declaration, and is too well known by all then preſent; And during the time of this execrable violence done by the ſaid Apprentiſes, <hi>Weſtminſter</hi> Hal and the Pallace yard was fild with Reformadoes and other ill-affected perſons deſigned to back them.</p>
+            <p>After this the Houſes being Adjourned till Friday following, upon the Thurſday the Apprentiſes printed and poſted a paper of ſeverall places of the City, requiring all their fellowes to be early at the Parliament the next morning, for that they intended to adjourne by ſeven of the clock, and that for a moneth. Thus the Speakers with many of the Members of both Houſes were driven away from the Parliament.</p>
+            <p>This in brief being the true ſtate of things as they have broke forth with<g ref="char:EOLhyphen"/>in theſe few dayes, (which are ſo contrary to all thoſe pretences of Peace, and deteſtation of a new War of late ſo frequently held forth on all ſides,) all men may obſerve to what maturity the long projected Deſigne of ſome men, (of whom are thoſe that are impeached by as,) is now brought, and may be traced in the ſeverall ſteps thereof, as it hath tended to the enſlaving this Kingdom, and the deſtruction of all ſuch wel-affected people who would not comply with them therein; ſo as by what now is come to light, the juſtneſſe of that cauſe, this Army had engaged themſelves in, and the great and wonderfull mercy of God in continuing them together, we aſ<g ref="char:EOLhyphen"/>ſure our ſelves doth now clearly appear to all mens eyes and apprehenſions, and will every day more and more be acknowledged, even by thoſe that have heretofore made a queſtion of it.</p>
+            <p>And if when this Kingdom hath ſpent ſo much of its bloud and treaſure, hath paſt through ſuch unheard of dangers, and overcome ſuch difficulties ſo many yeers together, All that they muſt now hope for and reſt in, muſt only be what the King grants in his Meſſage of the 12 of <hi>May</hi> laſt: And if this muſt be impoſed upon mens judgements and conſciences by an oath, &amp; now entred into in a tumultuous and unlawfull way, and by outrage maintained in deſpight and contempt of the Parliament. If rather then this ſhould not be accompliſhed, the Parliament it ſelf muſt be violated and forced into the
+<pb n="8" facs="tcp:114423:6"/>
+hands of ſuch of the Members thereof as have ſecretly abetted and fomen<g ref="char:EOLhyphen"/>ted thoſe practiſes to that end; That theſe hidden counſels and workes of darkneſſe might, when they come to their full birth, have the image of high<g ref="char:EOLhyphen"/>eſt authority in the face of them the better to gaine credit thereunto, and ſecure the authors of them from puniſhment; For the evidence of all which we refer our ſelves to the particulars in our Charge againſt the 11 Members, compared with thoſe paſſages of late broke forth before rehearſt, unto which we ſhall now only adde (and leave it to the conſideration of all wiſe and good men) with what Artifice and boldneſſe theſe Members have ſerv'd themſelves of thoſe horrid tumults and violences of their own creating (in<g ref="char:EOLhyphen"/>ſtead of ſhowing their deteſtation of them) againe to intrude themſelves into the publike managing of affairs, and inevitably to embroyle the King<g ref="char:EOLhyphen"/>dome in a new war; which their own revenge and the compaſſing of their former plots and deſignes makes them ſo greedily thirſt after. If theſe things (we ſay) muſt be the end and up-ſhot of all, what then remaines to this poore Kingdome and all true hearted Engliſhmen, but to joyne toge<g ref="char:EOLhyphen"/>ther as one man with their counſels, eſtates and lives in this way, as our laſt refuge under God, which he by his wiſe and gracious providence hath pro<g ref="char:EOLhyphen"/>vided and reſerved by keeping up this Army even to a Miracle, ſo to prevent the aforeſaid evils, and to procure to this dying Kingdome yet a ſetled peace and happineſſe, if it be his bleſſed will?</p>
+            <p>Theſe things being ſeriouſly conſidered by us, wee have thought fit in the name of the Army to declare, that all ſuch Members of either Houſe of Parliament as are already with the Army for the ſecuritie of their perſons, and for the ends aforeſaid are forced to abſent themſelves from Weſtminſter, that wee ſhall hold and eſteem them as perſons in whom the publick truſt of the Kingdom is ſtill remaining, though they cannot for the preſent fit as a Parliament with freedome and ſafety at Weſtminſter; and by whoſe advice and counſels, we deſire to governe our ſelves in the managing theſe waighty affaires; and to that end we invite them to make repaire to this Armie to joyne with us in this great cauſe, wee being reſolved, and do hereby faithfully oblige our ſelves to ſtand by them therein, and to live and die with them againſt all Oppoſition whatſoever, and in particular wee do hold our ſelves bound to owne that honourable act of the Speaker of the Houſe of Commons, who upon the grounds hee himſelfe expreſſed in his Declaration ſent unto us, hath actually withdrawn himſelfe; and here<g ref="char:EOLhyphen"/>upon wee do further ingage to uſe our utmoſt and ſpeedy endeavours, that hee and thoſe Members of either Houſe, that are thus inforced away from their attendance at Weſtminſter may with freedome and ſecuritie fit there,
+<pb n="9" facs="tcp:114423:6"/>
+and againe diſcharge their truſt as a free and a legall Parliament, and in the meane time we do declare againſt that late choice of a new Speaker by ſome Gentlemen at Weſtminſter, as contrary to all Right Reaſon, Law and Cu<g ref="char:EOLhyphen"/>ſtome, and wee profeſſe our ſelves to bee moſt clearly ſatisfied all our judgements, and are alſo confident the Kingdome will herein concurre with us, that as things now ſtand there is no free nor legall Parliament ſitting, being through the aforeſaid violence at preſent ſuſpended. And that the Orders, Votes, or Reſolutions, forced from the Houſes on Munday the 26. of July laſt, as alſo all ſuch as ſhall paſſe in this Aſſembly of ſome few Lords and Gentlemen at Weſtminſter, under what pretence and colour ſoever are void and null, and ought not to be ſubmitted unto by the free<g ref="char:EOLhyphen"/>borne Subjects of <hi>England.</hi>
+            </p>
+            <p>And that we may prevent that ſlavery deſigned upon us and the Nation, that the Kingdome may be reſtored to a happy State of a viſible Governe<g ref="char:EOLhyphen"/>ment now eclipſed and darkened; wee hold our ſelves bound by our duty to God and the Kingdome; to bring to condigne puniſhment the Authors and Promoters, of that unparalleld violence done to the Parliament; and in that to all the freerborne Subjects of <hi>England,</hi> that are or hereafter ſhall be; and therefore we are reſolved to march up towards <hi>London,</hi> where we do expect that the well-affected people of that City will deliver up unto us, (or otherwiſe put into ſafe Cuſtody, ſo as they may be reſerved to a legall Triall,) the eleven impeached Members that have againe thruſt themſelves into the management of publick affaires by this wicked deſigne.</p>
+            <p>And that all others will give us ſuch Aſſiſtance therein, that the Mem<g ref="char:EOLhyphen"/>bers of both Houſes may receive due incouragement to returne to Weſt<g ref="char:EOLhyphen"/>minſter, there to fit with all freedome, and ſo to performe their truſt, as ſhall conduce to the ſettlement of this diſtracted Kingdome; and to inflict ſuch puniſhments upon theſe late Offenders as ſhall deters any for the future to make the like attempt.</p>
+            <p>Our lives have not been deare unto us for the publick good, and being now reſolved by the aſſiſtance of God, to bring theſe delinquents to their de<g ref="char:EOLhyphen"/>ſerved puniſhments, as that then which, there cannot be any thing of more publick concernement to the Kingdome, wee truſt (if it ſhall come to that,) our bloud ſhall not be accounted too deare a price for the accompliſhment of it. And if any in the City will ingage themſelves againſt us to protect theſe Perſons, and ſo put the Kingdome againe into a new and miſerable Warre, The bloud muſt be laid to the account of ſuch perſon, as the Au<g ref="char:EOLhyphen"/>thors thereof.</p>
+            <p>And laſtly, Becauſe it is the maine Engine of ours and the Kingdomes e<g ref="char:EOLhyphen"/>nemies,
+<pb n="10" facs="tcp:114423:7"/>
+to render us odious by poſſeſſing the mindes of men, that we gape only after the plunder of this great and wealthy City, as the experience of the contrary carriage in all Townes that wee have taken yeeldeth unto us a Teſtimony beyond the example of any Army, ſo wee do from our hearts declare, that wee abhorre the thoughts thereof, and we doubt not but the world ſhall ſee our actions anſwerable to our profeſſions, and that we ſhall not cauſe any man to ſuffer but by his owne default; and that God will ma<g ref="char:EOLhyphen"/>nifeſt we have only in our eyes, that Iuſtice may have a free courſe, the Par<g ref="char:EOLhyphen"/>liament a free ſitting and voting, and a ful vindication of the late violence done to them.</p>
+            <p>And as for the City of Weſtminſter, the Borough of Southwarke, the Hamlets, and the reſt of the ſuburbs and out parts, as wee are informed, that they are not ſo ready to engage themſelves in a new warre as ſome would have them, ſo wee are ſenſible of the hard condition that they are brought into, even by them that claime a Right againſt both Hou<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s of Parliament, (a ſtrange claim againſt a Parliament, though more reaſonable againſt others,) not to be ſubjected to a Militia without their own conſent, and yet will not be contented, unleſſe they may have others ſubjected unto them, and lay what burthens they pleaſe upon them, without allowing them any part of vote or conſent with them; In which points of common might, and Equity wee ſhall not be wanting (in a due way) to aſſiſt them for the obtaining of their juſt deſires and immunities, is being our cheife aim to ſettle Peace with Truth and Righteouſneſſe throughout the Kingdome, that none may be oppreſſed in his juſt freedome and Liberties, much leſſe the Parliament it ſelfe, which things being duly ſetled, we ſhall bee as ready al<g ref="char:EOLhyphen"/>ſo to aſſure unto the King his juſt Rights and authoritie as any that pre<g ref="char:EOLhyphen"/>tend it never ſo much, for the better upholding of an ill cauſe, and the countenance of tumultuous violence againſt the Parliament, the which our honeſt, juſt, and neceſſary undertakings, as wee are reſolved to purſue with the utmoſt hazzard of our lives and fortunes, ſo we doubt not but we ſhall find Gods accuſtomed goodneſſe and aſſiſtance with us therein, till wee have brought them to a good and happy concluſion for this poore diſtracted and languiſhing Kingdome.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
